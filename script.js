@@ -53,6 +53,8 @@ window.addEventListener('scroll', function() {
 
 
 
+
+
 AOS.init({
     once: true, // La animación solo sucede una vez al bajar
     mirror: false
